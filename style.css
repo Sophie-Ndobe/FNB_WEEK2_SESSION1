@@ -7,3 +7,15 @@ p{
     color: coral;
     font-family: fantasy;
 }
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    text-decoration: none;
+}
